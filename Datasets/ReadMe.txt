@@ -1,7 +1,8 @@
-This folder contains the preprocessed datasets.
+This folder contains the original and preprocessed code smell datasets.
 
 Preprocessing steps:
 - Handling missing values
+- Normalized independent variables
 - Feature Selection (Gain Ratio)
 
 Original datasets from:

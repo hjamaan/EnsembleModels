@@ -1,1 +1,0 @@
-This folder contains the Gain Ratio computed value for every independent variable in each dataset.
